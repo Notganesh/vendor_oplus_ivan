@@ -1730,4 +1730,8 @@ PRODUCT_PACKAGES += \
     oplus-support-wrapper \
     com.oplus.camera.unit.sdk.adapter \
     com.oplus.camera.unit.sdk \
+    mediatek-wfo-legacy \
+    oplus-framework-telephony \
+    oplus-framework \
+    mediatek-ims-legacy \
     manifest_oplus_cammidasservice

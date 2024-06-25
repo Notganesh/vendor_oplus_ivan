@@ -40,6 +40,30 @@ dex_import {
 }
 
 dex_import {
+	name: "mediatek-ims-legacy",
+	owner: "oplus",
+	jars: ["proprietary/framework/mediatek-ims-legacy.jar"],
+}
+
+dex_import {
+	name: "mediatek-wfo-legacy",
+	owner: "oplus",
+	jars: ["proprietary/framework/mediatek-wfo-legacy.jar"],
+}
+
+dex_import {
+	name: "oplus-framework-telephony",
+	owner: "oplus",
+	jars: ["proprietary/framework/oplus-framework-telephony.jar"],
+}
+
+dex_import {
+	name: "oplus-framework",
+	owner: "oplus",
+	jars: ["proprietary/framework/oplus-framework.jar"],
+}
+
+dex_import {
 	name: "com.oplus.camera.unit.sdk",
 	owner: "oplus",
 	jars: ["proprietary/system_ext/framework/com.oplus.camera.unit.sdk.jar"],
